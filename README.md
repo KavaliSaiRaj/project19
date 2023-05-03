@@ -6,6 +6,7 @@ This is a web based application developed for Dental Health Services  website in
 
 
 **Project Link** - https://green-island-03f08df00.3.azurestaticapps.net
+**Project Video Demo Link** - https://youtu.be/ozmEWu-iSi4
 
 Azure technologies used for project
   * Static Web Apps
